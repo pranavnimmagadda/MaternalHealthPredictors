@@ -1,0 +1,63 @@
+
+
+How to Use the Maternal Health Risk Prediction Website
+1. Start by Selecting Input Mode
+You can either:
+
+Manually enter patient data, or
+
+Select from preloaded patient profiles.
+
+Use the buttons at the top to toggle between Manual Input and Profile Selection.
+
+2. Enter Patient Details (Manual Input)
+If you're entering data manually, fill out the form with all relevant patient information:
+
+Age, hemoglobin levels, gravida, parity, and abortion history
+
+Height, weight (initial and recent), blood pressure
+
+Gestational age, number of ANC visits, missed visits
+
+PHQ and GAD scores
+
+Flags for each missed ANC visit (1–4)
+
+Once you're done, hit "Generate Recommendations" to continue.
+
+3. Choose a Profile (if using Profile Selection)
+If you prefer using sample profiles:
+
+Pick one from the dropdown list.
+
+Details of the selected profile will be displayed in a table.
+
+Click "Generate Recommendations" to proceed with the analysis.
+
+4. Review the Risk Assessment and Recommendations
+After submission, you'll see:
+
+The assessed risk level for High-Risk Pregnancy and Premature Birth
+
+Tailored recommendations based on the predicted risk:
+
+Immediate actions
+
+Suggested medications
+
+Monitoring schedules
+
+Role-specific guidance for ASHA workers, ANMs, Medical Officers, and referrals
+
+5. Want a Deeper Breakdown?
+Click "Learn More" to view detailed recommendations, especially if the risk is moderate to high. This section gives a comprehensive action plan tailored to different healthcare roles.
+
+6. Check the Model's Performance
+Under the Model Metrics tab, we’ve included key performance indicators for transparency:
+
+Accuracy, Precision, Recall, and F1 Score
+
+Separate evaluations for both prediction models
+
+Bar charts help visualize the metrics at a glance.
+
